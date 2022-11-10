@@ -299,7 +299,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 # Others
 
 * JobFluent [Open positions](https://www.jobfluent.com/es/empleos-remoto) JobFluent is a Spanish job search site that allows filtering for 100% remote positions and only listing companies with offices in Spain.
-* Manfred [Open positions](https://github.com/getmanfred/offers/wiki) Manfred is a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro comply with the conditions stated above.
+* Manfred [Open positions]([https://github.com/getmanfred/offers/wiki](https://www.getmanfred.com/es/ofertas-empleo?onlyRemote=false&onlyActive=true&currency=%E2%82%AC)) Manfred is a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro comply with the conditions stated above.
 * Remote First [Open positions](https://remotefirst.digital/empresas/ofrecen-contrato-espanol) Remote First is a Spanish remote job search site that allows filtering for offers complying with the conditions stated above.
 
 # Related projects
